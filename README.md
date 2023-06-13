@@ -5,9 +5,9 @@ Ini adalah mini project teks editor sederhana yang dibuat menggunakan bahasa C++
 
 ## Susunan Anggota
 
-- Rafli Anwarsyah Daulay (221402125)
 - Fahrizal Ginting (221402016)
 - Mirekel Nainggolan (221402113)
+- Rafli Anwarsyah Daulay (221402125)
 - Muhammad Daniyal Al-Faiq (221402142)
 
 ## Fungsi yang Tersedia
