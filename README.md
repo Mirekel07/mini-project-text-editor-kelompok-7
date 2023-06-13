@@ -1,7 +1,7 @@
 
 # Mini Project Teks editor mp7
 
-Ini adalah mini project teks editor sederhana yang dibuat menggunakan bahasa C++. Proyek ini memungkinkan pengguna untuk membuat, mengedit, membaca, menghapus, mengosongkan, dan menganalisis file teks. Selain itu, proyek ini juga memiliki fitur untuk mengkompilasi dan menjalankan file C++.
+Ini adalah mini project teks editor sederhana yang dibuat menggunakan bahasa C++. Proyek ini memungkinkan pengguna untuk membuat, membaca, menghapus, mengosongkan, dan menganalisis file teks. Selain itu, proyek ini juga memiliki fitur untuk mengkompilasi dan menjalankan file C++.
 
 ## Susunan Anggota
 
